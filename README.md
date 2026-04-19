@@ -1,1 +1,1 @@
-this is my 2nd year's first real project a simple notes website
+this is my 2nd year's first real project a bank transaction system
